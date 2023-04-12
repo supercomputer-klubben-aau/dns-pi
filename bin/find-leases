@@ -1,0 +1,1 @@
+sudo docker exec -it 49115c0bb3bb cat /var/lib/misc/dnsmasq.leases
